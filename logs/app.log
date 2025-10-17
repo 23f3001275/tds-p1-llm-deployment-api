@@ -1,0 +1,249 @@
+2025-10-17 21:38:10,996 [INFO] [KEEPALIVE] Service heartbeat
+2025-10-17 21:38:41,006 [INFO] [KEEPALIVE] Service heartbeat
+2025-10-17 21:38:54,098 [INFO] Received task captcha-solver-123. Background processing started.
+2025-10-17 21:38:54,099 [INFO] [PROCESS START] Task: captcha-solver-123 Round: 1
+2025-10-17 21:38:54,313 [INFO] [GIT] R1: Creating remote repo 'captcha-solver-123'
+2025-10-17 21:38:55,983 [INFO] [GIT] Local repo initialized
+2025-10-17 21:38:55,984 [INFO] [WORKFLOW] Round 1: full generation
+2025-10-17 21:39:11,019 [INFO] [KEEPALIVE] Service heartbeat
+2025-10-17 21:39:41,035 [INFO] [KEEPALIVE] Service heartbeat
+2025-10-17 21:39:44,496 [INFO] [LOCAL_SAVE] Saving generated files to: C:\Users\Rewa Shete\Downloads\its_ok_gemini\generated_tasks\captcha-solver-123
+2025-10-17 21:39:44,503 [INFO]    -> Saved: index.html (bytes: 3340)
+2025-10-17 21:39:44,505 [INFO]    -> Saved: README.md (bytes: 2042)
+2025-10-17 21:39:44,507 [INFO]    -> Saved: LICENSE (bytes: 1087)
+2025-10-17 21:39:44,507 [INFO] [ATTACHMENTS] Processing 1 attachments for C:\Users\Rewa Shete\Downloads\its_ok_gemini\generated_tasks\captcha-solver-123
+2025-10-17 21:39:44,723 [INFO]    -> Saved Attachment: sample.png (bytes: 5362)
+2025-10-17 21:39:45,220 [INFO] [GIT] Committed: c20fd38eace6a60fe9eab833fe8c42081a0f8987
+2025-10-17 21:39:47,822 [INFO] [GIT] Pushed to origin/main
+2025-10-17 21:39:48,835 [INFO] [GIT] Pages configured
+2025-10-17 21:39:53,847 [INFO] [NOTIFY] Notifying evaluation server at https://example.com/notify
+2025-10-17 21:39:54,793 [WARNING] [NOTIFY] HTTP error attempt 1: Client error '403 Forbidden' for url 'https://example.com/notify'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2025-10-17 21:39:56,750 [WARNING] [NOTIFY] HTTP error attempt 2: Client error '403 Forbidden' for url 'https://example.com/notify'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2025-10-17 21:39:59,673 [WARNING] [NOTIFY] HTTP error attempt 3: Client error '403 Forbidden' for url 'https://example.com/notify'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2025-10-17 21:39:59,673 [ERROR] [NOTIFY] Failed to notify evaluation server after retries.
+2025-10-17 21:39:59,674 [INFO] [DEPLOYMENT] Success. Repo: https://github.com/23f3001275/captcha-solver-123 Pages: https://23f3001275.github.io/captcha-solver-123/
+2025-10-17 21:39:59,674 [INFO] [PROCESS END] Task: captcha-solver-123 Round: 1
+2025-10-17 21:39:59,674 [INFO] [BACKGROUND TASK] Task finished successfully.
+2025-10-17 21:40:11,051 [INFO] [KEEPALIVE] Service heartbeat
+2025-10-17 21:40:41,059 [INFO] [KEEPALIVE] Service heartbeat
+2025-10-17 21:41:11,068 [INFO] [KEEPALIVE] Service heartbeat
+2025-10-17 21:41:41,079 [INFO] [KEEPALIVE] Service heartbeat
+2025-10-17 21:42:11,080 [INFO] [KEEPALIVE] Service heartbeat
+2025-10-17 21:42:13,337 [INFO] [SHUTDOWN] Waiting for background tasks to finish (graceful shutdown)...
+2025-10-17 21:51:31,740 [INFO] [KEEPALIVE] Service heartbeat
+2025-10-17 21:52:01,754 [INFO] [KEEPALIVE] Service heartbeat
+2025-10-17 21:52:31,769 [INFO] [KEEPALIVE] Service heartbeat
+2025-10-17 21:52:34,881 [INFO] Received task captcha-solver-123. Background processing started.
+2025-10-17 21:52:34,882 [INFO] [PROCESS START] Task: captcha-solver-123 Round: 1
+2025-10-17 21:52:34,883 [INFO] [CLEANUP] Removing local directory: C:\Users\Rewa Shete\Downloads\its_ok_gemini\generated_tasks\captcha-solver-123
+2025-10-17 21:52:35,281 [INFO] [GIT] R1: Creating remote repo 'captcha-solver-123'
+2025-10-17 21:52:36,906 [INFO] [GIT] Local repo initialized
+2025-10-17 21:52:36,907 [INFO] [WORKFLOW] Round 1: full generation
+2025-10-17 21:53:01,783 [INFO] [KEEPALIVE] Service heartbeat
+2025-10-17 21:53:20,575 [INFO] [LOCAL_SAVE] Saving generated files to: C:\Users\Rewa Shete\Downloads\its_ok_gemini\generated_tasks\captcha-solver-123
+2025-10-17 21:53:20,576 [INFO]    -> Saved: index.html (bytes: 2352)
+2025-10-17 21:53:20,578 [INFO]    -> Saved: README.md (bytes: 1986)
+2025-10-17 21:53:20,581 [INFO]    -> Saved: LICENSE (bytes: 1082)
+2025-10-17 21:53:20,581 [INFO] [ATTACHMENTS] Processing 1 attachments for C:\Users\Rewa Shete\Downloads\its_ok_gemini\generated_tasks\captcha-solver-123
+2025-10-17 21:53:20,779 [INFO]    -> Saved Attachment: sample.png (bytes: 5362)
+2025-10-17 21:53:21,211 [INFO] [GIT] Committed: bbe6e4a46a16d6c67768246ba0e8d30d2594ca30
+2025-10-17 21:53:24,131 [INFO] [GIT] Pushed to origin/main
+2025-10-17 21:53:25,156 [INFO] [GIT] Pages configured
+2025-10-17 21:53:30,169 [INFO] [NOTIFY] Notifying evaluation server at https://example.com/notify
+2025-10-17 21:53:31,167 [WARNING] [NOTIFY] HTTP error attempt 1: Client error '403 Forbidden' for url 'https://example.com/notify'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2025-10-17 21:53:31,793 [INFO] [KEEPALIVE] Service heartbeat
+2025-10-17 21:53:33,159 [WARNING] [NOTIFY] HTTP error attempt 2: Client error '403 Forbidden' for url 'https://example.com/notify'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2025-10-17 21:53:36,322 [WARNING] [NOTIFY] HTTP error attempt 3: Client error '403 Forbidden' for url 'https://example.com/notify'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2025-10-17 21:53:36,323 [ERROR] [NOTIFY] Failed to notify evaluation server after retries.
+2025-10-17 21:53:36,323 [INFO] [DEPLOYMENT] Success. Repo: https://github.com/23f3001275/captcha-solver-123 Pages: https://23f3001275.github.io/captcha-solver-123/
+2025-10-17 21:53:36,323 [INFO] [PROCESS END] Task: captcha-solver-123 Round: 1
+2025-10-17 21:53:36,324 [INFO] [BACKGROUND TASK] Task finished successfully.
+2025-10-17 21:54:01,800 [INFO] [KEEPALIVE] Service heartbeat
+2025-10-17 21:54:20,850 [INFO] Received task markdown-to-html. Background processing started.
+2025-10-17 21:54:20,852 [INFO] [PROCESS START] Task: markdown-to-html Round: 1
+2025-10-17 21:54:21,033 [INFO] [GIT] R1: Creating remote repo 'markdown-to-html'
+2025-10-17 21:54:22,773 [INFO] [GIT] Local repo initialized
+2025-10-17 21:54:22,773 [INFO] [WORKFLOW] Round 1: full generation
+2025-10-17 21:54:31,810 [INFO] [KEEPALIVE] Service heartbeat
+2025-10-17 21:54:42,828 [INFO] [SHUTDOWN] Waiting for background tasks to finish (graceful shutdown)...
+2025-10-17 21:54:42,829 [INFO] [PROCESS END] Task: markdown-to-html Round: 1
+2025-10-17 21:54:42,829 [WARNING] [BACKGROUND TASK] Task was cancelled.
+2025-10-17 22:21:08,582 [INFO] [KEEPALIVE] Service heartbeat
+2025-10-17 22:21:12,096 [INFO] Received task markdown-to-html. Background processing started.
+2025-10-17 22:21:12,097 [INFO] [PROCESS START] Task: markdown-to-html Round: 1
+2025-10-17 22:21:12,098 [INFO] [CLEANUP] Removing local directory: C:\Users\Rewa Shete\Downloads\its_ok_gemini\generated_tasks\markdown-to-html
+2025-10-17 22:21:12,365 [INFO] [GIT] R1: Creating remote repo 'markdown-to-html'
+2025-10-17 22:21:14,185 [INFO] [GIT] Local repo initialized
+2025-10-17 22:21:14,186 [INFO] [WORKFLOW] Round 1: full generation
+2025-10-17 22:21:38,587 [INFO] [KEEPALIVE] Service heartbeat
+2025-10-17 22:21:59,452 [INFO] [LOCAL_SAVE] Saving generated files to: C:\Users\Rewa Shete\Downloads\its_ok_gemini\generated_tasks\markdown-to-html
+2025-10-17 22:21:59,454 [INFO]    -> Saved: index.html (bytes: 3031)
+2025-10-17 22:21:59,455 [INFO]    -> Saved: README.md (bytes: 1446)
+2025-10-17 22:21:59,461 [INFO]    -> Saved: LICENSE (bytes: 1076)
+2025-10-17 22:21:59,462 [INFO] [ATTACHMENTS] Processing 1 attachments for C:\Users\Rewa Shete\Downloads\its_ok_gemini\generated_tasks\markdown-to-html
+2025-10-17 22:21:59,657 [INFO]    -> Saved Attachment: input.md (bytes: 1942)
+2025-10-17 22:22:00,353 [INFO] [GIT] Committed: 95318a14e98e4a3776f1a1ca0192300d09cedf19
+2025-10-17 22:22:02,895 [INFO] [GIT] Pushed to origin/main
+2025-10-17 22:22:04,185 [INFO] [GIT] Pages configured
+2025-10-17 22:22:08,589 [INFO] [KEEPALIVE] Service heartbeat
+2025-10-17 22:22:09,201 [INFO] [NOTIFY] Notifying evaluation server at https://example.com/notify
+2025-10-17 22:22:10,161 [WARNING] [NOTIFY] HTTP error attempt 1: Client error '403 Forbidden' for url 'https://example.com/notify'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2025-10-17 22:22:12,171 [WARNING] [NOTIFY] HTTP error attempt 2: Client error '403 Forbidden' for url 'https://example.com/notify'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2025-10-17 22:22:15,243 [WARNING] [NOTIFY] HTTP error attempt 3: Client error '403 Forbidden' for url 'https://example.com/notify'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2025-10-17 22:22:15,244 [ERROR] [NOTIFY] Failed to notify evaluation server after retries.
+2025-10-17 22:22:15,244 [INFO] [DEPLOYMENT] Success. Repo: https://github.com/23f3001275/markdown-to-html Pages: https://23f3001275.github.io/markdown-to-html/
+2025-10-17 22:22:15,244 [INFO] [PROCESS END] Task: markdown-to-html Round: 1
+2025-10-17 22:22:15,245 [INFO] [BACKGROUND TASK] Task finished successfully.
+2025-10-17 22:22:38,596 [INFO] [KEEPALIVE] Service heartbeat
+2025-10-17 22:23:08,610 [INFO] [KEEPALIVE] Service heartbeat
+2025-10-17 22:23:28,116 [INFO] Received task markdown-summary. Background processing started.
+2025-10-17 22:23:28,117 [INFO] [PROCESS START] Task: markdown-summary Round: 1
+2025-10-17 22:23:28,387 [INFO] [GIT] R1: Creating remote repo 'markdown-summary'
+2025-10-17 22:23:30,517 [INFO] [GIT] Local repo initialized
+2025-10-17 22:23:30,518 [INFO] [WORKFLOW] Round 1: full generation
+2025-10-17 22:23:38,623 [INFO] [KEEPALIVE] Service heartbeat
+2025-10-17 22:24:08,636 [INFO] [KEEPALIVE] Service heartbeat
+2025-10-17 22:24:09,412 [INFO] [LOCAL_SAVE] Saving generated files to: C:\Users\Rewa Shete\Downloads\its_ok_gemini\generated_tasks\markdown-summary
+2025-10-17 22:24:09,450 [INFO]    -> Saved: index.html (bytes: 2184)
+2025-10-17 22:24:09,480 [INFO]    -> Saved: README.md (bytes: 738)
+2025-10-17 22:24:09,527 [INFO]    -> Saved: LICENSE (bytes: 1089)
+2025-10-17 22:24:09,552 [INFO] [ATTACHMENTS] Processing 1 attachments for C:\Users\Rewa Shete\Downloads\its_ok_gemini\generated_tasks\markdown-summary
+2025-10-17 22:24:10,724 [INFO]    -> Saved Attachment: README.md (bytes: 158)
+2025-10-17 22:24:12,291 [INFO] [GIT] Committed: 8eea39270b3968fdef9ac647a1c9131de94237d0
+2025-10-17 22:24:15,091 [INFO] [GIT] Pushed to origin/main
+2025-10-17 22:24:16,588 [INFO] [GIT] Pages configured
+2025-10-17 22:24:21,603 [INFO] [NOTIFY] Notifying evaluation server at https://example.com/notify
+2025-10-17 22:24:23,656 [WARNING] [NOTIFY] HTTP error attempt 1: Client error '403 Forbidden' for url 'https://example.com/notify'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2025-10-17 22:24:26,583 [WARNING] [NOTIFY] HTTP error attempt 2: Client error '403 Forbidden' for url 'https://example.com/notify'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2025-10-17 22:24:30,015 [WARNING] [NOTIFY] HTTP error attempt 3: Client error '403 Forbidden' for url 'https://example.com/notify'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2025-10-17 22:24:30,016 [ERROR] [NOTIFY] Failed to notify evaluation server after retries.
+2025-10-17 22:24:30,017 [INFO] [DEPLOYMENT] Success. Repo: https://github.com/23f3001275/markdown-summary Pages: https://23f3001275.github.io/markdown-summary/
+2025-10-17 22:24:30,018 [INFO] [PROCESS END] Task: markdown-summary Round: 1
+2025-10-17 22:24:30,328 [INFO] [BACKGROUND TASK] Task finished successfully.
+2025-10-17 22:24:38,653 [INFO] [KEEPALIVE] Service heartbeat
+2025-10-17 22:25:08,672 [INFO] [KEEPALIVE] Service heartbeat
+2025-10-17 22:25:38,675 [INFO] [KEEPALIVE] Service heartbeat
+2025-10-17 22:26:06,191 [INFO] Received task markdown-summary. Background processing started.
+2025-10-17 22:26:06,193 [INFO] [PROCESS START] Task: markdown-summary Round: 2
+2025-10-17 22:26:06,194 [INFO] [CLEANUP] Removing local directory: C:\Users\Rewa Shete\Downloads\its_ok_gemini\generated_tasks\markdown-summary
+2025-10-17 22:26:06,415 [INFO] [GIT] R2: Cloning https://github.com/23f3001275/markdown-summary
+2025-10-17 22:26:08,530 [INFO] [GIT] Cloned repo
+2025-10-17 22:26:08,531 [INFO] [WORKFLOW] Round 2+: surgical update (Base.py style). Loading existing index.html only.
+2025-10-17 22:26:08,541 [INFO] [WORKFLOW] Read existing index.html for context.
+2025-10-17 22:26:08,725 [INFO] [KEEPALIVE] Service heartbeat
+2025-10-17 22:26:38,728 [INFO] [KEEPALIVE] Service heartbeat
+2025-10-17 22:27:08,736 [INFO] [KEEPALIVE] Service heartbeat
+2025-10-17 22:27:16,505 [INFO] [LOCAL_SAVE] Saving generated files to: C:\Users\Rewa Shete\Downloads\its_ok_gemini\generated_tasks\markdown-summary
+2025-10-17 22:27:16,505 [INFO]    -> Saved: index.html (bytes: 2865)
+2025-10-17 22:27:16,506 [INFO]    -> Saved: README.md (bytes: 487)
+2025-10-17 22:27:16,507 [INFO]    -> Saved: LICENSE (bytes: 1089)
+2025-10-17 22:27:16,507 [INFO] [ATTACHMENTS] Processing 1 attachments for C:\Users\Rewa Shete\Downloads\its_ok_gemini\generated_tasks\markdown-summary
+2025-10-17 22:27:16,733 [INFO]    -> Saved Attachment: README.md (bytes: 158)
+2025-10-17 22:27:17,302 [INFO] [GIT] Committed: bb1360ac0731930eb2ba7cb98c769fda9ae0708f
+2025-10-17 22:27:19,500 [INFO] [GIT] Pushed to origin/main
+2025-10-17 22:27:20,371 [INFO] [GIT] Pages configured
+2025-10-17 22:27:25,383 [INFO] [NOTIFY] Notifying evaluation server at https://example.com/notify
+2025-10-17 22:27:26,538 [WARNING] [NOTIFY] HTTP error attempt 1: Client error '403 Forbidden' for url 'https://example.com/notify'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2025-10-17 22:27:28,496 [WARNING] [NOTIFY] HTTP error attempt 2: Client error '403 Forbidden' for url 'https://example.com/notify'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2025-10-17 22:27:31,467 [WARNING] [NOTIFY] HTTP error attempt 3: Client error '403 Forbidden' for url 'https://example.com/notify'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2025-10-17 22:27:31,467 [ERROR] [NOTIFY] Failed to notify evaluation server after retries.
+2025-10-17 22:27:31,467 [INFO] [DEPLOYMENT] Success. Repo: https://github.com/23f3001275/markdown-summary Pages: https://23f3001275.github.io/markdown-summary/
+2025-10-17 22:27:31,468 [INFO] [PROCESS END] Task: markdown-summary Round: 2
+2025-10-17 22:27:31,468 [INFO] [BACKGROUND TASK] Task finished successfully.
+2025-10-17 22:27:38,739 [INFO] [KEEPALIVE] Service heartbeat
+2025-10-17 22:28:00,391 [INFO] Received task markdown-summary. Background processing started.
+2025-10-17 22:28:00,392 [INFO] [PROCESS START] Task: markdown-summary Round: 2
+2025-10-17 22:28:00,407 [INFO] [CLEANUP] Removing local directory: C:\Users\Rewa Shete\Downloads\its_ok_gemini\generated_tasks\markdown-summary
+2025-10-17 22:28:00,439 [ERROR] Failed in rmtree on C:\Users\Rewa Shete\Downloads\its_ok_gemini\generated_tasks\markdown-summary: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\Rewa Shete\\Downloads\\its_ok_gemini\\generated_tasks\\markdown-summary'
+Traceback (most recent call last):
+  File "C:\Users\Rewa Shete\AppData\Local\Programs\Python\Python313\Lib\shutil.py", line 631, in _rmtree_unsafe
+    os.rmdir(path)
+    ~~~~~~~~^^^^^^
+PermissionError: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\Rewa Shete\\Downloads\\its_ok_gemini\\generated_tasks\\markdown-summary'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Rewa Shete\Downloads\its_ok_gemini\main.py", line 102, in onerror
+    func(path_arg)
+    ~~~~^^^^^^^^^^
+PermissionError: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\Rewa Shete\\Downloads\\its_ok_gemini\\generated_tasks\\markdown-summary'
+2025-10-17 22:28:00,448 [ERROR] Cleanup failed for C:\Users\Rewa Shete\Downloads\its_ok_gemini\generated_tasks\markdown-summary: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\Rewa Shete\\Downloads\\its_ok_gemini\\generated_tasks\\markdown-summary'
+Traceback (most recent call last):
+  File "C:\Users\Rewa Shete\AppData\Local\Programs\Python\Python313\Lib\shutil.py", line 631, in _rmtree_unsafe
+    os.rmdir(path)
+    ~~~~~~~~^^^^^^
+PermissionError: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\Rewa Shete\\Downloads\\its_ok_gemini\\generated_tasks\\markdown-summary'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Rewa Shete\Downloads\its_ok_gemini\main.py", line 444, in generate_files_and_deploy
+    remove_local_path(local_path)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\Rewa Shete\Downloads\its_ok_gemini\main.py", line 107, in remove_local_path
+    shutil.rmtree(path, onerror=onerror)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rewa Shete\AppData\Local\Programs\Python\Python313\Lib\shutil.py", line 790, in rmtree
+    return _rmtree_unsafe(path, onexc)
+  File "C:\Users\Rewa Shete\AppData\Local\Programs\Python\Python313\Lib\shutil.py", line 635, in _rmtree_unsafe
+    onexc(os.rmdir, path, err)
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rewa Shete\AppData\Local\Programs\Python\Python313\Lib\shutil.py", line 754, in onexc
+    return onerror(func, path, exc_info)
+  File "C:\Users\Rewa Shete\Downloads\its_ok_gemini\main.py", line 102, in onerror
+    func(path_arg)
+    ~~~~^^^^^^^^^^
+PermissionError: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\Rewa Shete\\Downloads\\its_ok_gemini\\generated_tasks\\markdown-summary'
+2025-10-17 22:28:00,449 [ERROR] [CRITICAL FAILURE] Task markdown-summary failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\Rewa Shete\\Downloads\\its_ok_gemini\\generated_tasks\\markdown-summary'
+Traceback (most recent call last):
+  File "C:\Users\Rewa Shete\AppData\Local\Programs\Python\Python313\Lib\shutil.py", line 631, in _rmtree_unsafe
+    os.rmdir(path)
+    ~~~~~~~~^^^^^^
+PermissionError: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\Rewa Shete\\Downloads\\its_ok_gemini\\generated_tasks\\markdown-summary'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Rewa Shete\Downloads\its_ok_gemini\main.py", line 444, in generate_files_and_deploy
+    remove_local_path(local_path)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\Rewa Shete\Downloads\its_ok_gemini\main.py", line 107, in remove_local_path
+    shutil.rmtree(path, onerror=onerror)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rewa Shete\AppData\Local\Programs\Python\Python313\Lib\shutil.py", line 790, in rmtree
+    return _rmtree_unsafe(path, onexc)
+  File "C:\Users\Rewa Shete\AppData\Local\Programs\Python\Python313\Lib\shutil.py", line 635, in _rmtree_unsafe
+    onexc(os.rmdir, path, err)
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rewa Shete\AppData\Local\Programs\Python\Python313\Lib\shutil.py", line 754, in onexc
+    return onerror(func, path, exc_info)
+  File "C:\Users\Rewa Shete\Downloads\its_ok_gemini\main.py", line 102, in onerror
+    func(path_arg)
+    ~~~~^^^^^^^^^^
+PermissionError: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\Rewa Shete\\Downloads\\its_ok_gemini\\generated_tasks\\markdown-summary'
+2025-10-17 22:28:00,450 [INFO] [PROCESS END] Task: markdown-summary Round: 2
+2025-10-17 22:28:00,450 [INFO] [BACKGROUND TASK] Task finished successfully.
+2025-10-17 22:28:08,748 [INFO] [KEEPALIVE] Service heartbeat
+2025-10-17 22:28:38,753 [INFO] [KEEPALIVE] Service heartbeat
+2025-10-17 22:29:08,763 [INFO] [KEEPALIVE] Service heartbeat
+2025-10-17 22:29:38,774 [INFO] [KEEPALIVE] Service heartbeat
+2025-10-17 22:30:08,779 [INFO] [KEEPALIVE] Service heartbeat
+2025-10-17 22:30:38,786 [INFO] [KEEPALIVE] Service heartbeat
+2025-10-17 22:31:08,803 [INFO] [KEEPALIVE] Service heartbeat
+2025-10-17 22:31:10,320 [INFO] [SHUTDOWN] Waiting for background tasks to finish (graceful shutdown)...
